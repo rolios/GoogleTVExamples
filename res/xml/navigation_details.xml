@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+    <item type="conference" id="0">
+        <title>Spring In Action</title>
+        <location>Zenika Paris</location>
+        <date>29-Jun-12</date>
+        <author>Pr. Zen</author>
+    </item>
+    <item type="conference" id="1">
+        <title>How to debug Android Apps</title>
+        <location>Mountain View</location>
+        <date>10-Oct-10</date>
+        <author>Andy Rubin</author>
+    </item>    
+    <item type="training" id="10">
+        <title>Android</title>
+        <location>Zenika Paris</location>
+		<duration>3</duration>
+    </item>
+    <item type="training" id="11">
+        <title>Java</title>
+        <location>Oracle</location>
+		<duration>2</duration>
+    </item>
+    <item type="training" id="12">
+        <title>C++</title>
+        <location>Beer world</location>
+		<duration>40</duration>
+    </item>
+    <item type="expert" id="20">
+        <firstName>Larry</firstName>
+        <lastName>Page</lastName>
+        <company>Google</company>
+    </item>
+    <item type="expert" id="21">
+        <firstName>Linus</firstName>
+        <lastName>Torvalds</lastName>
+        <company>Linux Foundation</company>
+    </item>
+</details>
